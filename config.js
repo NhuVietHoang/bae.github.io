@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Nhưng mà anh nghĩ em cũng có chút cảm tình với anh đúng không (đố em trả lời được không đấy :)) 🥰 ',
     btnYes: 'Dạ đúng ạ <33',
     btnNo: 'Không nha :3',
-    question: 'Đúng là anh đẹp trai thật :)), vậy em nghĩ sao 1 buổi phớt đết ơ tương lai gần ạ',
+    question: 'Đúng là anh đẹp trai thật :)) nên em nghĩ sao 1 buổi phớt đết ơ tương lai gần ạ',
     btnReply: 'Gửi cho anh <3',
     reply: 'Chắc chắn rồi anh, em sắp mở lòng rồiiii',
     mess: 'Anh biết mà 🥰. Hạ hạ 😘😘',
