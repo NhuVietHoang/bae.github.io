@@ -1,21 +1,17 @@
 const CONFIG = {
     titleWeb: "Cho mình bé",
-    introTitle: 'Bé của anh',
-    introDesc: `Hãy tin anh người nhéeeee
-     Dẫu cho bao ngày sau như thế nào
-    
-    Thì em vẫn luôn là vợ của anh
-    🙃🙃🙃`,
-    btnIntro: '^^Oki chứ bé nhỉ^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    introTitle: 'Ngày Thầy Thuốc Việt Nam',
+    introDesc: `Chúc bé hết đau bụng , ăn uống lành mạnh và ami không bị bố mắng nhé`,
+    btnIntro: '^^Oki không ạ^^',
+    title: 'Thời gian quen nhau chưa lâu 🥰',
+    desc: 'Nhưng mà anh nghĩ em cũng có chút cảm tình với anh đúng không (đố em trả lời không đấy ạ)🥰 ',
+    btnYes: 'Dạ đúng ạ <33',
     btnNo: 'Không nha :3',
-    question: 'Đúng là anh đẹp trai nhất đống đa thât cơ mà a vẫn muốn biết sao bé yêu anh <3',
-    btnReply: 'Gửi cho chồng <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 8h, anh qua đón đi chơi nha.',
+    question: 'Đúng là anh đẹp trai thật :)), vậy em nghĩ sao 1 buổi phớt đết ơ tương lai gần ạ',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Chắc chắn rồi anh, em sắp mở lòng rồiiii',
+    mess: 'Anh biết mà 🥰. Hạ hạ 😘😘',
+    messDesc: 'Chúc em mau khỏi ốm nhé, có gì in bốc anh ở đây ạ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100087509435346'
 }
